@@ -1,0 +1,22 @@
+{
+  "name": "uhbi-server",
+  "version": "1.0.0",
+  "description": "Backend for SDD and IoT Security project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gsepe-dev/uhbi-server.git"
+  },
+  "author": "gsepe-dev",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gsepe-dev/uhbi-server/issues"
+  },
+  "homepage": "https://github.com/gsepe-dev/uhbi-server#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
